@@ -1,0 +1,24 @@
+{
+    "name": "@gotocva/digital-signature",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": false,
+    "keywords": ["blockchain", "digital signature", "gotocva","Node.js digital signature library", "elliptic curve cryptography", "secp256k1 digital signatures", "blockchain cryptography", "data signing and verification", "key pair generation library", "digital signature verification", "secure communication protocols", "cryptography library for Node.js", "lightweight cryptography tools"],
+    "author": "sivabharathy <gotocva@gmail.com>",
+    "license": "MIT",
+    "description": "A lightweight and efficient Node.js library for generating and managing digital signatures using elliptic curve cryptography (secp256k1). This library provides an easy-to-use interface for securely generating key pairs, signing data, verifying signatures, and validating public keys. It is ideal for use in blockchain applications, cryptographic systems, and secure communication protocols.",
+    "dependencies": {
+      "elliptic": "^6.5.5"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gotocva/digital-signature.git"
+    },
+    "bugs": {
+      "url": "https://github.com/gotocva/digital-signature/issues"
+    },
+    "homepage": "https://github.com/gotocva/digital-signature#readme"
+  }
